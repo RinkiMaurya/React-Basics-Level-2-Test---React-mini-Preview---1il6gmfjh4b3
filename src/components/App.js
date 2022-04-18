@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "../styles/App.css";
 import { Preview } from "./Preview";
 const App = () => {
-  const [state1, setState1] = useState("hello world");
+  const [state1, setState1] = useState("hello newton");
   const [state2, setState2] = useState(10);
   const [state3, setState3] = useState(5);
   return (
