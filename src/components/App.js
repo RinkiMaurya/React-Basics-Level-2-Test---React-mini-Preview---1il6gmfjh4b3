@@ -32,7 +32,6 @@ const App = () => {
         fontSize={state2 + "px"}
         content={state1}
       />
-      {/* render Preview component here */}
     </div>
   );
 };
